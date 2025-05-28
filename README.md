@@ -31,5 +31,5 @@ All you need is a modern web browser.
    git clone https://github.com/yourusername/dance-club.git
    cd dance-club
    open index.html  
-##Author 
+### Author 
 Chilla Meenaamrutha
