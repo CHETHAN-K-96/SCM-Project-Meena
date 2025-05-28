@@ -15,7 +15,6 @@
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- (Optional) Bootstrap or another CSS framework
 
 ## 🚀 Getting Started
 
